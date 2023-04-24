@@ -1,0 +1,12 @@
+C:\Users\artem\source\repos\mindBox\mindBox\bin\Debug\net6.0\mindBox.deps.json
+C:\Users\artem\source\repos\mindBox\mindBox\bin\Debug\net6.0\mindBox.dll
+C:\Users\artem\source\repos\mindBox\mindBox\bin\Debug\net6.0\ref\mindBox.dll
+C:\Users\artem\source\repos\mindBox\mindBox\bin\Debug\net6.0\mindBox.pdb
+C:\Users\artem\source\repos\mindBox\mindBox\obj\Debug\net6.0\mindBox.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\mindBox\mindBox\obj\Debug\net6.0\mindBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\mindBox\mindBox\obj\Debug\net6.0\mindBox.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\mindBox\mindBox\obj\Debug\net6.0\mindBox.AssemblyInfo.cs
+C:\Users\artem\source\repos\mindBox\mindBox\obj\Debug\net6.0\mindBox.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\mindBox\mindBox\obj\Debug\net6.0\mindBox.dll
+C:\Users\artem\source\repos\mindBox\mindBox\obj\Debug\net6.0\ref\mindBox.dll
+C:\Users\artem\source\repos\mindBox\mindBox\obj\Debug\net6.0\mindBox.pdb

@@ -1,1 +1,2 @@
-# mindBoxTest
+# mindBox
+MindBox Test case
